@@ -28,8 +28,6 @@
             <version>1.18.30</version> <!-- latest -->
             <scope>provided</scope>
         </dependency>
-
-
         <!-- TestNG -->
         <dependency>
             <groupId>org.testng</groupId>
