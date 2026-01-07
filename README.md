@@ -15,7 +15,6 @@ for Continuous Integration (CI).
 - Extent Reports
 - Log4j
 
- ** High-Level Project Structure **
  ## 📂 Project Structure
 src/
  ├── main/java/pages
@@ -24,7 +23,6 @@ src/
  ├── test/resources
  └── .github/workflows
 
-**How to Run Tests Locally**
 ## ▶️ How to Run Tests
 
 ### Prerequisites
@@ -35,12 +33,10 @@ src/
 ### Run Tests
 mvn clean test
 
-** CI/CD Integration **
 ## 🔄 CI/CD
 This project uses GitHub Actions to automatically execute tests
 on every push or pull request.
 
-** Reports **
 ## 📊 Reporting
 Extent reports are generated after execution and can be found in the reports folder.
 
