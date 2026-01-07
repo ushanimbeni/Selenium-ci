@@ -15,14 +15,6 @@ for Continuous Integration (CI).
 - Extent Reports
 - Log4j
 
- ## 📂 Project Structure
-src/
- ├── main/java/pages
- ├── test/java/tests
- ├── test/java/base
- ├── test/resources
- └── .github/workflows
-
 ## ▶️ How to Run Tests
 
 ### Prerequisites
