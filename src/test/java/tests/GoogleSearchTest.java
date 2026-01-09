@@ -1,10 +1,8 @@
 package tests;
 
 import base.BaseTest;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import pages.GoogleHomePage;
-import utils.ReportListener;
 
 public class GoogleSearchTest extends BaseTest {
 
